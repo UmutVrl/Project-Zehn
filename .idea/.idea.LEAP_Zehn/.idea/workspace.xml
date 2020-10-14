@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18c2df2d-8eaa-4343-a731-d88681cec738" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/LeapZehnMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1541">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+              <folding>
+                <marker date="1566980954877" expanded="false" signature="6:189" ph="..." />
+                <marker date="1566980954877" expanded="true" signature="233:5938" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="652:723" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="783:1227" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="880:931" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="971:1093" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="1133:1223" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="1272:3765" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="1810:3476" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="2153:2721" ph="/* screenMain.text = &quot;&quot;; ... */" />
+                <marker date="1566980954877" expanded="true" signature="3819:5020" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="3979:4187" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4016:4081" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4118:4183" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4224:4297" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4334:4383" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4409:4672" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="4697:4955" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="5046:5251" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="5296:5504" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="5419:5477" ph="{...}" />
+                <marker date="1566980954877" expanded="true" signature="5540:5929" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_controller</find>
+      <find>curre</find>
+      <find>ReactionTimer</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B7A3AD7-08CD-41CA-A5CB-D7E7E38E2EA8/a8/59d0fceb/TextAlignmentOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/MainMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Desktop/Unity_C#/Backup/DocumentationVR/Backup_Script/[VR]_[LeapBasics]_[ReactionTimeCalc]_[20190719].cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/LeapZehnMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Editor/CorePreferences.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.3.0/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Desktop/Unity_C#/Backup/DocumentationVR/Backup_Script/[VR]_[LeapBasics]_[ReactionTimeCalc]_[20190719].cs" />
+        <option value="$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/MainMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/LeapZehnMain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="498" />
+    <option name="y" value="67" />
+    <option name="width" value="1026" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18c2df2d-8eaa-4343-a731-d88681cec738" name="Default Changelist" comment="" />
+      <created>1564314085421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564314085421</updated>
+      <workItem from="1564314112918" duration="1103000" />
+      <workItem from="1564316383771" duration="198000" />
+      <workItem from="1564317858311" duration="264000" />
+      <workItem from="1564318163019" duration="5602000" />
+      <workItem from="1564327591493" duration="1199000" />
+      <workItem from="1564336376720" duration="2196000" />
+      <workItem from="1564423422140" duration="2793000" />
+      <workItem from="1564470619943" duration="14325000" />
+      <workItem from="1564517098891" duration="1002000" />
+      <workItem from="1566718584582" duration="173000" />
+      <workItem from="1566719337595" duration="10000" />
+      <workItem from="1566719616321" duration="4315000" />
+      <workItem from="1566727880536" duration="2725000" />
+      <workItem from="1566979806374" duration="1582000" />
+      <workItem from="1567090439801" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38093000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="730" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02265861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Unity" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/[VR]_[LeapBasics]_[ReactionTimeCalc]_[20190719].cs" />
+    <entry file="file://$PROJECT_DIR$/../Desktop/ProjectC#/Backup/DocumentationVR/Backup_Script/[VR]_[LeapBasics]_[ReactionTimeCalc]_[20190719].cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Editor/CorePreferences.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <marker date="1526509083000" expanded="true" signature="0:640" ph="/* Copyright (C) Leap Motion, Inc. 2011-2018. ... */" />
+            <marker date="1526509083000" expanded="true" signature="648:679" ph="..." />
+            <marker date="1526509083000" expanded="true" signature="702:2287" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="743:2285" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="992:1200" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1004:1104" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1115:1194" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1249:1453" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1261:1359" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1370:1447" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="1534:1916" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="2004:2281" ph="{...}" />
+            <marker date="1526509083000" expanded="true" signature="2222:2275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B7A3AD7-08CD-41CA-A5CB-D7E7E38E2EA8/a8/59d0fceb/TextAlignmentOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.3.0/Scripts/Runtime/TMP_Text.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="115" column="9" lean-forward="true" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/Unity_C#/Backup/DocumentationVR/Backup_Script/[VR]_[LeapBasics]_[ReactionTimeCalc]_[20190719].cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="16" selection-end-line="116" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/MainMenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <marker date="1564504934660" expanded="false" signature="6:113" ph="..." />
+            <marker date="1564504934660" expanded="true" signature="162:448" ph="{...}" />
+            <marker date="1564504934660" expanded="true" signature="241:298" ph="{...}" />
+            <marker date="1564504934660" expanded="true" signature="361:382" ph="{...}" />
+            <marker date="1564504934660" expanded="true" signature="406:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LeapMotion/LEAP_Zehn/Scripts/LeapZehnMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding>
+            <marker date="1566980954877" expanded="false" signature="6:189" ph="..." />
+            <marker date="1566980954877" expanded="true" signature="233:5938" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="652:723" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="783:1227" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="880:931" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="971:1093" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="1133:1223" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="1272:3765" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="1810:3476" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="2153:2721" ph="/* screenMain.text = &quot;&quot;; ... */" />
+            <marker date="1566980954877" expanded="true" signature="3819:5020" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="3979:4187" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4016:4081" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4118:4183" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4224:4297" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4334:4383" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4409:4672" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="4697:4955" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="5046:5251" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="5296:5504" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="5419:5477" ph="{...}" />
+            <marker date="1566980954877" expanded="true" signature="5540:5929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
